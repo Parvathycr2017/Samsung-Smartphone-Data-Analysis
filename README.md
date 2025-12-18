@@ -107,24 +107,6 @@ Customer preference for 5G increases with better coverage and higher speeds.
 
 Expansion of 5G infrastructure plays a crucial role in future sales growth.
 
-## 📊 Key Visualizations
-
-### 1. 5G Subscribers Trend
-![5G Subscribers Trend](images/5g_subscribers_trend.png)
-
-### 2. Average 5G Speed
-![Average 5G Speed](images/avg_5g_speed.png)
-
-### 3. Revenue Contribution by Region
-![Revenue Contribution](images/revenue_contribution_region.png)
-
-### 4. Revenue Distribution
-![Revenue Distribution](images/revenue_distribution.png)
-
-### 5. Units Sold by Region
-![Units Sold by Region](images/units_sold_regional.png)
-
-
 💡 Business Recommendations
 
 Focus on high-performing regions to maximize revenue.
