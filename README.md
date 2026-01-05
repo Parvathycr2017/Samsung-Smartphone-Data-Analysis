@@ -131,7 +131,7 @@ Run all cells sequentially.
 
 👤 Author
 
-Your Name
+Parvathy C R
 Data Analysis Beginner | Python & Pandas Enthusiast
 
 ⭐ Acknowledgements
